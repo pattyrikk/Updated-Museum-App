@@ -3,7 +3,7 @@ RU Fossil Park
 Overview
 
 RU Fossil Park is a Flutter application project designed to provide
-information about fossils associated with the RU (Rutgers University)
+information about fossils associated with the RU (Rowan University)
 Fossil Park. The current project contains the basic application shell,
 including a splash screen, a home page, and planned navigation to fossil
 categories.
